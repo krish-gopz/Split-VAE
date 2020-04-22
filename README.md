@@ -9,4 +9,4 @@ Run get_reconstructions.ipynb to get reconstructions by loading both BetaVAE and
 Google Colab was used in the project and hence the notebooks are coded to be used with Colab.
 The notebooks are easy to understand and the parameters for the runs are changed through the "parameters" variable.
 
-This code is adapted from https://github.com/1Konny/Beta-VAE.
+This code is adapted from https://github.com/1Konny/Beta-VAE. Refer that repository for doubts on setting up environment or downloading datasets.
